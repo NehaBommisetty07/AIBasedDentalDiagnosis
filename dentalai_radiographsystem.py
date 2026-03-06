@@ -280,23 +280,3 @@ print(url)
 print("="*50)
 print("👆 Open that URL → upload any OPG image → see full analysis!")
 
-!git clone https://github.com/NehaBommisetty07/AIBasedDentalRadiographSystem.git
-
-ls
-
-# Commented out IPython magic to ensure Python compatibility.
-# %cd AIBasedDentalRadiographSystem
-
-!git add .
-
-!git config --global user.email "nehabommisetty0707@gmail.com"
-!git config --global user.name "NehaBommisetty07"
-
-!git commit -m "Updated code from Colab"
-
-!git push https://USERNAME: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@github.com/NehaBommisetty07/AIBasedDentalRadiographSystem.git
-
-!pwd
-
-# Commented out IPython magic to ensure Python compatibility.
-# %cd DentalAI_radiographSystem
